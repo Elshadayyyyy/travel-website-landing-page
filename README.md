@@ -14,12 +14,16 @@ Follow these steps to get a copy of the project up and running on your local mac
 ### Installation
 
 1.  **Clone the repository:**
-    git clone <https://github.com/Elshadayyyyy/travel-website-landing-page.git>
+    git clone https://github.com/Elshadayyyyy/travel-website-landing-page.git
     cd travel-website-landing-page
     
 
 2.  **Install dependencies:**
     npm install
+### Running the Project
+
+start the development server:
+npm run dev
 
 
 [demo](README.md) ![demo](<public/Screenshot 2025-07-20 212847.png>) ![demo](<public/Screenshot 2025-07-20 213134.png>) ![demo](<public/Screenshot 2025-07-20 213147.png>) ![demo](<public/Screenshot 2025-07-20 213203.png>) ![demo](<public/Screenshot 2025-07-20 213216.png>) ![dem](<public/Screenshot 2025-07-20 213230.png>) ![demo](<public/Screenshot 2025-07-20 213241.png>) ![demo](<public/Screenshot 2025-07-20 213251.png>)
